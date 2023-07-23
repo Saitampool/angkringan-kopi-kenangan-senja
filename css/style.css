@@ -276,13 +276,13 @@ body {
   flex: 1 1 45rem;
 }
 
-.about .row .about-img img {
+/* .about .row .about-img img {
   width: 100%;
-  -webkit-mask-image: url('../img/menu/1.jpg');
+  -webkit-mask-image: url('../img/tentang-kami.jpg');
   -webkit-mask-size: 50%;
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
-}
+} */
 
 .about .row .content {
   flex: 1 1 35rem;
