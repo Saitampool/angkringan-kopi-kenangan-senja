@@ -2,4 +2,4 @@
 
 Code untuk website angkringan kopi Kenangan Senja
 
-Latihan ini sekaligus mengenalkanku cara koding yg baik dan bernar dari chanel WPU dan mengenalkan git serta meningkatkan wawasan terkait web development
+Latihan ini sekaligus mengenalkanku cara koding yg baik dan bernar dari chanel WPU dan mengenalkan git serta menambah wawasan terkait web development
